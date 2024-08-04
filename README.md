@@ -1,3 +1,2 @@
-# SQP2024
-
-Material del Curso
+# IA para la Escritura Científica
+Sociedad Química del Perú - 
