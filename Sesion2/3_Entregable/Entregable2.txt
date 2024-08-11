@@ -1,1 +1,46 @@
-Colocar aquí la lista de proyectos.
+Entregable #2: Consiste en proponer o elegir un proyecto basado en el temario del curso.
+
+Proyectos:
+
+1. Digitalización de texto a partir de imágenes (Programa): Presentar un COLAB que digitalice el texto de páginas escaneadas (Proyecto en proceso para la recuperación de material bibliográfico)
+
+2. Digitalización de texto a partir de imágenes (Base de datos): Generar  un archivo con el contenido del texto en CSV.
+
+3. Extracción de moléculas en artículos científicos de libre acceso.
+
+4. Base de datos de bibliografía para química orgánica dirigida para estudiantes universitarios.
+
+5. Base de datos de bibliografía para química inorgánica dirigida para estudiantes universitarios.
+
+6. Base de datos de bibliografía para química orgánica dirigida para estudiantes universitarios.
+
+7. Base de datos de bibliografía para química analítica dirigida para estudiantes universitarios.
+
+8. Base de datos de bibliografía para fisicoquímica dirigida para estudiantes universitarios.
+
+9. Base de datos de bibliografía para química computacional dirigida para estudiantes universitarios.
+
+10. Generación de base de datos de literatura científica proveniente de Scopus, WoS, PubMed, etc.
+
+11. Consultas a PDFs usando LLaMA 3.1 para múltiples inputs
+
+12. Consultas a PDFs usando LLaMA 3.1 para múltiples PDFs
+
+13. ...
+
+
+Lista de asistencia:
+
+1. Juan Manuel Parreño Tipian
+2. Pedro Francisco Ruiz Campos
+3. Edgar Cárdenas Landeo
+4. Beatriz Adaniya: Procesos...
+5. Tatiana Raquel Medianero Robles
+6. Glaver Roland Barbieri Piñarreta: Video sobre Química usando PIXVERSE + complementar con audio
+7. Gustavo Adolfo Ruiz Pacco 
+8. Erick Alexander Peña Bedon
+9. Miguel Angel Veliz Hinostroza
+10. Aura Molina Cabrera
+
+
+
