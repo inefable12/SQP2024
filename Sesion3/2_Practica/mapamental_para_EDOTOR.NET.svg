@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2926pt" height="524pt" viewBox="0.00 0.00 2925.70 524.19">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 520.1901)">
+<title>G</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-520.1901 2921.7034,-520.1901 2921.7034,4 -4,4"/>
+<!-- ProductosNaturales -->
+<g id="node1" class="node">
+<title>ProductosNaturales</title>
+<ellipse fill="#f08080" stroke="#f08080" cx="1783.0172" cy="-474.895" rx="111.9792" ry="41.0911"/>
+<text text-anchor="middle" x="1783.0172" y="-487.495" font-family="Arial Bold" font-size="14.00" fill="#000000">Productos Naturales </text>
+<text text-anchor="middle" x="1783.0172" y="-470.695" font-family="Arial Bold" font-size="14.00" fill="#000000"> Inhibidores de targets </text>
+<text text-anchor="middle" x="1783.0172" y="-453.895" font-family="Arial Bold" font-size="14.00" fill="#000000"> en SARS-CoV-2</text>
+</g>
+<!-- Observacion -->
+<g id="node2" class="node">
+<title>Observacion</title>
+<polygon fill="#ffec8b" stroke="#ffec8b" points="655.8461,-325.6 554.1883,-325.6 554.1883,-289.6 655.8461,-289.6 655.8461,-325.6"/>
+<text text-anchor="middle" x="605.0172" y="-304" font-family="Arial Bold" font-size="12.00" fill="#000000">Observación (i)</text>
+</g>
+<!-- ProductosNaturales&#45;&gt;Observacion -->
+<g id="edge1" class="edge">
+<title>ProductosNaturales-&gt;Observacion</title>
+<path fill="none" stroke="#000000" d="M1678.4776,-460.0487C1438.7891,-426.0091 855.6728,-343.1972 665.8412,-316.238"/>
+<polygon fill="#000000" stroke="#000000" points="655.7672,-314.8073 666.3006,-311.7582 660.7175,-315.5104 665.6678,-316.2135 665.6678,-316.2135 665.6678,-316.2135 660.7175,-315.5104 665.0351,-320.6687 655.7672,-314.8073 655.7672,-314.8073"/>
+</g>
+<!-- Hipotesis -->
+<g id="node18" class="node">
+<title>Hipotesis</title>
+<polygon fill="#72e6e0" stroke="#72e6e0" points="1580.3369,-325.6 1479.6975,-325.6 1479.6975,-289.6 1580.3369,-289.6 1580.3369,-325.6"/>
+<text text-anchor="middle" x="1530.0172" y="-304" font-family="Arial Bold" font-size="12.00" fill="#000000">Hipótesis (i+m)</text>
+</g>
+<!-- ProductosNaturales&#45;&gt;Hipotesis -->
+<g id="edge17" class="edge">
+<title>ProductosNaturales-&gt;Hipotesis</title>
+<path fill="none" stroke="#000000" d="M1728.4315,-438.8005C1679.2023,-406.248 1608.2146,-359.3076 1565.8405,-331.288"/>
+<polygon fill="#000000" stroke="#000000" points="1557.2508,-325.6081 1568.0742,-327.3702 1561.4214,-328.3659 1565.5921,-331.1238 1565.5921,-331.1238 1565.5921,-331.1238 1561.4214,-328.3659 1563.11,-334.8774 1557.2508,-325.6081 1557.2508,-325.6081"/>
+</g>
+<!-- Experimentacion -->
+<g id="node22" class="node">
+<title>Experimentacion</title>
+<polygon fill="#aca0fc" stroke="#aca0fc" points="2029.8592,-325.6 1874.1752,-325.6 1874.1752,-289.6 2029.8592,-289.6 2029.8592,-325.6"/>
+<text text-anchor="middle" x="1952.0172" y="-304" font-family="Arial Bold" font-size="12.00" fill="#000000">Experimentación (m+r+d)</text>
+</g>
+<!-- ProductosNaturales&#45;&gt;Experimentacion -->
+<g id="edge21" class="edge">
+<title>ProductosNaturales-&gt;Experimentacion</title>
+<path fill="none" stroke="#000000" d="M1822.214,-436.0937C1854.3003,-404.331 1898.7599,-360.32 1926.4344,-332.9247"/>
+<polygon fill="#000000" stroke="#000000" points="1933.7707,-325.6625 1929.8296,-335.8957 1930.2172,-329.18 1926.6638,-332.6976 1926.6638,-332.6976 1926.6638,-332.6976 1930.2172,-329.18 1923.498,-329.4995 1933.7707,-325.6625 1933.7707,-325.6625"/>
+</g>
+<!-- Conclusion -->
+<g id="node34" class="node">
+<title>Conclusion</title>
+<polygon fill="#ffaeb9" stroke="#ffaeb9" points="2580.8502,-325.6 2483.1842,-325.6 2483.1842,-289.6 2580.8502,-289.6 2580.8502,-325.6"/>
+<text text-anchor="middle" x="2532.0172" y="-304" font-family="Arial Bold" font-size="12.00" fill="#000000">Conclusión (d)</text>
+</g>
+<!-- ProductosNaturales&#45;&gt;Conclusion -->
+<g id="edge33" class="edge">
+<title>ProductosNaturales-&gt;Conclusion</title>
+<path fill="none" stroke="#000000" d="M1879.0206,-453.4519C2036.2128,-418.3418 2343.8977,-349.618 2472.8907,-320.8064"/>
+<polygon fill="#000000" stroke="#000000" points="2482.9709,-318.5549 2474.1924,-325.1266 2478.0912,-319.6448 2473.2114,-320.7348 2473.2114,-320.7348 2473.2114,-320.7348 2478.0912,-319.6448 2472.2304,-316.343 2482.9709,-318.5549 2482.9709,-318.5549"/>
+</g>
+<!-- Problem -->
+<g id="node3" class="node">
+<title>Problem</title>
+<polygon fill="#ffec8b" stroke="#ffec8b" points="128.0516,-181.5005 -.0172,-181.5005 -.0172,-144.8995 128.0516,-144.8995 128.0516,-181.5005"/>
+<text text-anchor="middle" x="64.0172" y="-166.8" font-family="Arial" font-size="12.00" fill="#000000">Problemática: </text>
+<text text-anchor="middle" x="64.0172" y="-152.4" font-family="Arial" font-size="12.00" fill="#000000">Mutación en AA 142</text>
+</g>
+<!-- Observacion&#45;&gt;Problem -->
+<g id="edge2" class="edge">
+<title>Observacion-&gt;Problem</title>
+<path fill="none" stroke="#000000" d="M554.1212,-294.0152C458.1172,-268.3905 249.9321,-212.8231 138.2911,-183.0247"/>
+<polygon fill="#000000" stroke="#000000" points="128.4523,-180.3986 139.2746,-178.6297 133.2832,-181.688 138.1141,-182.9775 138.1141,-182.9775 138.1141,-182.9775 133.2832,-181.688 136.9536,-187.3253 128.4523,-180.3986 128.4523,-180.3986"/>
+</g>
+<!-- DataStruct -->
+<g id="node4" class="node">
+<title>DataStruct</title>
+<polygon fill="#ffec8b" stroke="#ffec8b" points="304.0312,-181.5005 200.0032,-181.5005 200.0032,-144.8995 304.0312,-144.8995 304.0312,-181.5005"/>
+<text text-anchor="middle" x="252.0172" y="-166.8" font-family="Arial" font-size="12.00" fill="#000000">Data estructural </text>
+<text text-anchor="middle" x="252.0172" y="-152.4" font-family="Arial" font-size="12.00" fill="#000000">de target (PDB)</text>
+</g>
+<!-- Observacion&#45;&gt;DataStruct -->
+<g id="edge3" class="edge">
+<title>Observacion-&gt;DataStruct</title>
+<path fill="none" stroke="#000000" d="M560.6669,-289.4579C496.115,-263.0519 376.3821,-214.0733 306.5348,-185.5012"/>
+<polygon fill="#000000" stroke="#000000" points="297.021,-181.6095 307.9804,-181.2307 301.6488,-183.5026 306.2766,-185.3957 306.2766,-185.3957 306.2766,-185.3957 301.6488,-183.5026 304.5728,-189.5607 297.021,-181.6095 297.021,-181.6095"/>
+</g>
+<!-- Literature -->
+<g id="node5" class="node">
+<title>Literature</title>
+<polygon fill="#ffec8b" stroke="#ffec8b" points="564.1929,-181.5005 465.8415,-181.5005 465.8415,-144.8995 564.1929,-144.8995 564.1929,-181.5005"/>
+<text text-anchor="middle" x="515.0172" y="-166.8" font-family="Arial" font-size="12.00" fill="#000000">Revisión de la </text>
+<text text-anchor="middle" x="515.0172" y="-152.4" font-family="Arial" font-size="12.00" fill="#000000">literatura</text>
+</g>
+<!-- Observacion&#45;&gt;Literature -->
+<g id="edge4" class="edge">
+<title>Observacion-&gt;Literature</title>
+<path fill="none" stroke="#000000" d="M593.6186,-289.3116C578.0827,-264.3851 550.1324,-219.5405 532.0893,-190.5912"/>
+<polygon fill="#000000" stroke="#000000" points="526.6075,-181.796 535.7159,-187.9023 529.2522,-186.0393 531.897,-190.2826 531.897,-190.2826 531.897,-190.2826 529.2522,-186.0393 528.078,-192.6628 526.6075,-181.796 526.6075,-181.796"/>
+</g>
+<!-- Software -->
+<g id="node6" class="node">
+<title>Software</title>
+<polygon fill="#ffec8b" stroke="#ffec8b" points="800.8693,-181.5005 685.1651,-181.5005 685.1651,-144.8995 800.8693,-144.8995 800.8693,-181.5005"/>
+<text text-anchor="middle" x="743.0172" y="-166.8" font-family="Arial" font-size="12.00" fill="#000000">Revisión de </text>
+<text text-anchor="middle" x="743.0172" y="-152.4" font-family="Arial" font-size="12.00" fill="#000000">software requerido</text>
+</g>
+<!-- Observacion&#45;&gt;Software -->
+<g id="edge5" class="edge">
+<title>Observacion-&gt;Software</title>
+<path fill="none" stroke="#000000" d="M622.495,-289.3116C646.7292,-263.9535 690.6638,-217.9814 718.2634,-189.1018"/>
+<polygon fill="#000000" stroke="#000000" points="725.2454,-181.796 721.5896,-192.1345 721.7909,-185.4107 718.3363,-189.0255 718.3363,-189.0255 718.3363,-189.0255 721.7909,-185.4107 715.0831,-185.9164 725.2454,-181.796 725.2454,-181.796"/>
+</g>
+<!-- Databases -->
+<g id="node7" class="node">
+<title>Databases</title>
+<polygon fill="#ffec8b" stroke="#ffec8b" points="1124.0548,-181.5005 1021.9796,-181.5005 1021.9796,-144.8995 1124.0548,-144.8995 1124.0548,-181.5005"/>
+<text text-anchor="middle" x="1073.0172" y="-166.8" font-family="Arial" font-size="12.00" fill="#000000">Bases de datos </text>
+<text text-anchor="middle" x="1073.0172" y="-152.4" font-family="Arial" font-size="12.00" fill="#000000">moleculares</text>
+</g>
+<!-- Observacion&#45;&gt;Databases -->
+<g id="edge6" class="edge">
+<title>Observacion-&gt;Databases</title>
+<path fill="none" stroke="#000000" d="M655.9923,-291.8718C742.8248,-265.0799 919.0512,-210.7057 1012.1817,-181.9706"/>
+<polygon fill="#000000" stroke="#000000" points="1021.7493,-179.0186 1013.5205,-186.2669 1016.9715,-180.4928 1012.1938,-181.967 1012.1938,-181.967 1012.1938,-181.967 1016.9715,-180.4928 1010.867,-177.667 1021.7493,-179.0186 1021.7493,-179.0186"/>
+</g>
+<!-- Alphafold -->
+<g id="node8" class="node">
+<title>Alphafold</title>
+<polygon fill="#ffec8b" stroke="#ffec8b" points="111.0344,-36.4 45,-36.4 45,-.4 111.0344,-.4 111.0344,-36.4"/>
+<text text-anchor="middle" x="78.0172" y="-14.8" font-family="Arial" font-size="12.00" fill="#000000">Alphafold</text>
+</g>
+<!-- DataStruct&#45;&gt;Alphafold -->
+<g id="edge7" class="edge">
+<title>DataStruct-&gt;Alphafold</title>
+<path fill="none" stroke="#000000" d="M229.98,-144.861C198.9944,-119.0753 142.4663,-72.0335 107.7738,-43.163"/>
+<polygon fill="#000000" stroke="#000000" points="99.8755,-36.5901 110.4406,-39.5278 103.7188,-39.7884 107.5621,-42.9868 107.5621,-42.9868 107.5621,-42.9868 103.7188,-39.7884 104.6836,-46.4457 99.8755,-36.5901 99.8755,-36.5901"/>
+</g>
+<!-- PDB -->
+<g id="node9" class="node">
+<title>PDB</title>
+<polygon fill="#ffec8b" stroke="#ffec8b" points="237.0172,-36.4 183.0172,-36.4 183.0172,-.4 237.0172,-.4 237.0172,-36.4"/>
+<text text-anchor="middle" x="210.0172" y="-14.8" font-family="Arial" font-size="12.00" fill="#000000">PDB</text>
+</g>
+<!-- DataStruct&#45;&gt;PDB -->
+<g id="edge8" class="edge">
+<title>DataStruct-&gt;PDB</title>
+<path fill="none" stroke="#000000" d="M246.6979,-144.861C239.5026,-120.0545 226.6013,-75.5757 218.176,-46.5285"/>
+<polygon fill="#000000" stroke="#000000" points="215.2933,-36.5901 222.401,-44.9407 216.6862,-41.3922 218.0791,-46.1943 218.0791,-46.1943 218.0791,-46.1943 216.6862,-41.3922 213.7573,-47.4479 215.2933,-36.5901 215.2933,-36.5901"/>
+</g>
+<!-- Scopus -->
+<g id="node10" class="node">
+<title>Scopus</title>
+<polygon fill="#ffec8b" stroke="#ffec8b" points="365.0324,-36.4 309.002,-36.4 309.002,-.4 365.0324,-.4 365.0324,-36.4"/>
+<text text-anchor="middle" x="337.0172" y="-14.8" font-family="Arial" font-size="12.00" fill="#000000">Scopus</text>
+</g>
+<!-- Literature&#45;&gt;Scopus -->
+<g id="edge9" class="edge">
+<title>Literature-&gt;Scopus</title>
+<path fill="none" stroke="#000000" d="M492.4734,-144.861C460.7755,-119.0753 402.9479,-72.0335 367.4579,-43.163"/>
+<polygon fill="#000000" stroke="#000000" points="359.378,-36.5901 369.9752,-39.4098 363.2567,-39.7454 367.1354,-42.9007 367.1354,-42.9007 367.1354,-42.9007 363.2567,-39.7454 364.2957,-46.3915 359.378,-36.5901 359.378,-36.5901"/>
+</g>
+<!-- Pubmed -->
+<g id="node11" class="node">
+<title>Pubmed</title>
+<polygon fill="#ffec8b" stroke="#ffec8b" points="497.1988,-36.4 436.8356,-36.4 436.8356,-.4 497.1988,-.4 497.1988,-36.4"/>
+<text text-anchor="middle" x="467.0172" y="-14.8" font-family="Arial" font-size="12.00" fill="#000000">Pubmed</text>
+</g>
+<!-- Literature&#45;&gt;Pubmed -->
+<g id="edge10" class="edge">
+<title>Literature-&gt;Pubmed</title>
+<path fill="none" stroke="#000000" d="M508.938,-144.861C500.6787,-119.9457 485.841,-75.1851 476.2152,-46.1472"/>
+<polygon fill="#000000" stroke="#000000" points="473.0471,-36.5901 480.4651,-44.6662 474.6204,-41.3361 476.1937,-46.0822 476.1937,-46.0822 476.1937,-46.0822 474.6204,-41.3361 471.9222,-47.4982 473.0471,-36.5901 473.0471,-36.5901"/>
+</g>
+<!-- WoS -->
+<g id="node12" class="node">
+<title>WoS</title>
+<polygon fill="#ffec8b" stroke="#ffec8b" points="623.0172,-36.4 569.0172,-36.4 569.0172,-.4 623.0172,-.4 623.0172,-36.4"/>
+<text text-anchor="middle" x="596.0172" y="-14.8" font-family="Arial" font-size="12.00" fill="#000000">WoS</text>
+</g>
+<!-- Literature&#45;&gt;WoS -->
+<g id="edge11" class="edge">
+<title>Literature-&gt;WoS</title>
+<path fill="none" stroke="#000000" d="M525.2759,-144.861C539.3351,-119.7281 564.6903,-74.4018 580.9192,-45.39"/>
+<polygon fill="#000000" stroke="#000000" points="585.8418,-36.5901 584.887,-47.5144 583.4008,-40.9538 580.9597,-45.3174 580.9597,-45.3174 580.9597,-45.3174 583.4008,-40.9538 577.0324,-43.1205 585.8418,-36.5901 585.8418,-36.5901"/>
+</g>
+<!-- LicAcademica -->
+<g id="node13" class="node">
+<title>LicAcademica</title>
+<polygon fill="#ffec8b" stroke="#ffec8b" points="791.4788,-36.4 694.5556,-36.4 694.5556,-.4 791.4788,-.4 791.4788,-36.4"/>
+<text text-anchor="middle" x="743.0172" y="-14.8" font-family="Arial" font-size="12.00" fill="#000000">Lic. Académica</text>
+</g>
+<!-- Software&#45;&gt;LicAcademica -->
+<g id="edge12" class="edge">
+<title>Software-&gt;LicAcademica</title>
+<path fill="none" stroke="#000000" d="M743.0172,-144.861C743.0172,-120.1633 743.0172,-75.9654 743.0172,-46.9116"/>
+<polygon fill="#000000" stroke="#000000" points="743.0172,-36.5901 747.5173,-46.5901 743.0172,-41.5901 743.0173,-46.5901 743.0173,-46.5901 743.0173,-46.5901 743.0172,-41.5901 738.5173,-46.5902 743.0172,-36.5901 743.0172,-36.5901"/>
+</g>
+<!-- LicComercial -->
+<g id="node14" class="node">
+<title>LicComercial</title>
+<polygon fill="#ffec8b" stroke="#ffec8b" points="955.0108,-36.4 863.0236,-36.4 863.0236,-.4 955.0108,-.4 955.0108,-36.4"/>
+<text text-anchor="middle" x="909.0172" y="-14.8" font-family="Arial" font-size="12.00" fill="#000000">Lic. Comercial</text>
+</g>
+<!-- Software&#45;&gt;LicComercial -->
+<g id="edge13" class="edge">
+<title>Software-&gt;LicComercial</title>
+<path fill="none" stroke="#000000" d="M764.0412,-144.861C793.4775,-119.1841 847.0766,-72.4301 880.2086,-43.5294"/>
+<polygon fill="#000000" stroke="#000000" points="888.1639,-36.5901 883.5861,-46.5548 884.3959,-39.8769 880.628,-43.1636 880.628,-43.1636 880.628,-43.1636 884.3959,-39.8769 877.6699,-39.7725 888.1639,-36.5901 888.1639,-36.5901"/>
+</g>
+<!-- PubChem -->
+<g id="node15" class="node">
+<title>PubChem</title>
+<polygon fill="#ffec8b" stroke="#ffec8b" points="1096.8617,-36.4 1027.1727,-36.4 1027.1727,-.4 1096.8617,-.4 1096.8617,-36.4"/>
+<text text-anchor="middle" x="1062.0172" y="-14.8" font-family="Arial" font-size="12.00" fill="#000000">PubChem</text>
+</g>
+<!-- Databases&#45;&gt;PubChem -->
+<g id="edge14" class="edge">
+<title>Databases-&gt;PubChem</title>
+<path fill="none" stroke="#000000" d="M1071.624,-144.861C1069.7478,-120.1633 1066.3903,-75.9654 1064.1831,-46.9116"/>
+<polygon fill="#000000" stroke="#000000" points="1063.399,-36.5901 1068.6437,-46.2205 1063.7778,-41.5757 1064.1566,-46.5614 1064.1566,-46.5614 1064.1566,-46.5614 1063.7778,-41.5757 1059.6695,-46.9023 1063.399,-36.5901 1063.399,-36.5901"/>
+</g>
+<!-- SciFinder -->
+<g id="node16" class="node">
+<title>SciFinder</title>
+<polygon fill="#ffec8b" stroke="#ffec8b" points="1235.1844,-36.4 1168.85,-36.4 1168.85,-.4 1235.1844,-.4 1235.1844,-36.4"/>
+<text text-anchor="middle" x="1202.0172" y="-14.8" font-family="Arial" font-size="12.00" fill="#000000">SciFinder</text>
+</g>
+<!-- Databases&#45;&gt;SciFinder -->
+<g id="edge15" class="edge">
+<title>Databases-&gt;SciFinder</title>
+<path fill="none" stroke="#000000" d="M1089.3551,-144.861C1112.0364,-119.4017 1153.178,-73.221 1178.9718,-44.268"/>
+<polygon fill="#000000" stroke="#000000" points="1185.8119,-36.5901 1182.52,-47.0502 1182.4859,-40.3235 1179.1599,-44.0568 1179.1599,-44.0568 1179.1599,-44.0568 1182.4859,-40.3235 1175.7999,-41.0634 1185.8119,-36.5901 1185.8119,-36.5901"/>
+</g>
+<!-- PeruNPDB -->
+<g id="node17" class="node">
+<title>PeruNPDB</title>
+<polygon fill="#ffec8b" stroke="#ffec8b" points="1382.1883,-36.4 1307.8461,-36.4 1307.8461,-.4 1382.1883,-.4 1382.1883,-36.4"/>
+<text text-anchor="middle" x="1345.0172" y="-14.8" font-family="Arial" font-size="12.00" fill="#000000">PeruNPDB</text>
+</g>
+<!-- Databases&#45;&gt;PeruNPDB -->
+<g id="edge16" class="edge">
+<title>Databases-&gt;PeruNPDB</title>
+<path fill="none" stroke="#000000" d="M1107.4662,-144.861C1156.9253,-118.5313 1248.0154,-70.0392 1301.8872,-41.3604"/>
+<polygon fill="#000000" stroke="#000000" points="1310.8479,-36.5901 1304.1354,-45.2615 1306.4344,-38.9397 1302.0208,-41.2893 1302.0208,-41.2893 1302.0208,-41.2893 1306.4344,-38.9397 1299.9062,-37.3171 1310.8479,-36.5901 1310.8479,-36.5901"/>
+</g>
+<!-- Pregunta -->
+<g id="node19" class="node">
+<title>Pregunta</title>
+<polygon fill="#72e6e0" stroke="#72e6e0" points="1323.0232,-181.5005 1217.0112,-181.5005 1217.0112,-144.8995 1323.0232,-144.8995 1323.0232,-181.5005"/>
+<text text-anchor="middle" x="1270.0172" y="-166.8" font-family="Arial" font-size="12.00" fill="#000000">Formulación de </text>
+<text text-anchor="middle" x="1270.0172" y="-152.4" font-family="Arial" font-size="12.00" fill="#000000">preguntas</text>
+</g>
+<!-- Hipotesis&#45;&gt;Pregunta -->
+<g id="edge18" class="edge">
+<title>Hipotesis-&gt;Pregunta</title>
+<path fill="none" stroke="#000000" d="M1497.3513,-289.4579C1450.3893,-263.3759 1363.7754,-215.2719 1312.0819,-186.5621"/>
+<polygon fill="#000000" stroke="#000000" points="1303.1645,-181.6095 1314.0916,-182.5308 1307.5356,-184.0372 1311.9067,-186.4648 1311.9067,-186.4648 1311.9067,-186.4648 1307.5356,-184.0372 1309.7218,-190.3988 1303.1645,-181.6095 1303.1645,-181.6095"/>
+</g>
+<!-- Proposicion -->
+<g id="node20" class="node">
+<title>Proposicion</title>
+<polygon fill="#72e6e0" stroke="#72e6e0" points="1497.2009,-181.5005 1394.8335,-181.5005 1394.8335,-144.8995 1497.2009,-144.8995 1497.2009,-181.5005"/>
+<text text-anchor="middle" x="1446.0172" y="-166.8" font-family="Arial" font-size="12.00" fill="#000000">Proposición de </text>
+<text text-anchor="middle" x="1446.0172" y="-152.4" font-family="Arial" font-size="12.00" fill="#000000">hipótesis</text>
+</g>
+<!-- Hipotesis&#45;&gt;Proposicion -->
+<g id="edge19" class="edge">
+<title>Hipotesis-&gt;Proposicion</title>
+<path fill="none" stroke="#000000" d="M1519.3785,-289.3116C1504.8783,-264.3851 1478.7914,-219.5405 1461.9511,-190.5912"/>
+<polygon fill="#000000" stroke="#000000" points="1456.8348,-181.796 1465.7529,-188.1771 1459.349,-186.1179 1461.8631,-190.4399 1461.8631,-190.4399 1461.8631,-190.4399 1459.349,-186.1179 1457.9734,-192.7026 1456.8348,-181.796 1456.8348,-181.796"/>
+</g>
+<!-- Variables -->
+<g id="node21" class="node">
+<title>Variables</title>
+<polygon fill="#72e6e0" stroke="#72e6e0" points="1661.0348,-181.5005 1568.9996,-181.5005 1568.9996,-144.8995 1661.0348,-144.8995 1661.0348,-181.5005"/>
+<text text-anchor="middle" x="1615.0172" y="-166.8" font-family="Arial" font-size="12.00" fill="#000000">Selección de </text>
+<text text-anchor="middle" x="1615.0172" y="-152.4" font-family="Arial" font-size="12.00" fill="#000000">variables</text>
+</g>
+<!-- Hipotesis&#45;&gt;Variables -->
+<g id="edge20" class="edge">
+<title>Hipotesis-&gt;Variables</title>
+<path fill="none" stroke="#000000" d="M1540.7825,-289.3116C1555.4553,-264.3851 1581.8528,-219.5405 1598.8936,-190.5912"/>
+<polygon fill="#000000" stroke="#000000" points="1604.0708,-181.796 1602.876,-192.6966 1601.5344,-186.1049 1598.998,-190.4138 1598.998,-190.4138 1598.998,-190.4138 1601.5344,-186.1049 1595.1199,-188.131 1604.0708,-181.796 1604.0708,-181.796"/>
+</g>
+<!-- Diseno -->
+<g id="node23" class="node">
+<title>Diseno</title>
+<polygon fill="#aca0fc" stroke="#aca0fc" points="1815.0292,-181.5005 1733.0052,-181.5005 1733.0052,-144.8995 1815.0292,-144.8995 1815.0292,-181.5005"/>
+<text text-anchor="middle" x="1774.0172" y="-166.8" font-family="Arial" font-size="12.00" fill="#000000">Diseño del </text>
+<text text-anchor="middle" x="1774.0172" y="-152.4" font-family="Arial" font-size="12.00" fill="#000000">experimento</text>
+</g>
+<!-- Experimentacion&#45;&gt;Diseno -->
+<g id="edge22" class="edge">
+<title>Experimentacion-&gt;Diseno</title>
+<path fill="none" stroke="#000000" d="M1929.4734,-289.3116C1897.8621,-263.6674 1840.2637,-216.9416 1804.7493,-188.131"/>
+<polygon fill="#000000" stroke="#000000" points="1796.6584,-181.5674 1807.2594,-184.3727 1800.5414,-184.7174 1804.4244,-187.8674 1804.4244,-187.8674 1804.4244,-187.8674 1800.5414,-184.7174 1801.5894,-191.3621 1796.6584,-181.5674 1796.6584,-181.5674"/>
+</g>
+<!-- Recoleccion -->
+<g id="node28" class="node">
+<title>Recoleccion</title>
+<polygon fill="#aca0fc" stroke="#aca0fc" points="2017.0448,-181.5005 1886.9896,-181.5005 1886.9896,-144.8995 2017.0448,-144.8995 2017.0448,-181.5005"/>
+<text text-anchor="middle" x="1952.0172" y="-166.8" font-family="Arial" font-size="12.00" fill="#000000">Recolección de </text>
+<text text-anchor="middle" x="1952.0172" y="-152.4" font-family="Arial" font-size="12.00" fill="#000000">datos experimentales</text>
+</g>
+<!-- Experimentacion&#45;&gt;Recoleccion -->
+<g id="edge23" class="edge">
+<title>Experimentacion-&gt;Recoleccion</title>
+<path fill="none" stroke="#000000" d="M1952.0172,-289.3116C1952.0172,-264.8167 1952.0172,-221.0875 1952.0172,-192.1091"/>
+<polygon fill="#000000" stroke="#000000" points="1952.0172,-181.796 1956.5173,-191.7959 1952.0172,-186.796 1952.0173,-191.796 1952.0173,-191.796 1952.0173,-191.796 1952.0172,-186.796 1947.5173,-191.796 1952.0172,-181.796 1952.0172,-181.796"/>
+</g>
+<!-- Analisis -->
+<g id="node29" class="node">
+<title>Analisis</title>
+<polygon fill="#aca0fc" stroke="#aca0fc" points="2167.1807,-181.5005 2088.8537,-181.5005 2088.8537,-144.8995 2167.1807,-144.8995 2167.1807,-181.5005"/>
+<text text-anchor="middle" x="2128.0172" y="-166.8" font-family="Arial" font-size="12.00" fill="#000000">Análisis de </text>
+<text text-anchor="middle" x="2128.0172" y="-152.4" font-family="Arial" font-size="12.00" fill="#000000">resultados</text>
+</g>
+<!-- Experimentacion&#45;&gt;Analisis -->
+<g id="edge24" class="edge">
+<title>Experimentacion-&gt;Analisis</title>
+<path fill="none" stroke="#000000" d="M1974.3077,-289.3116C2005.5638,-263.6674 2062.515,-216.9416 2097.6304,-188.131"/>
+<polygon fill="#000000" stroke="#000000" points="2105.6304,-181.5674 2100.7537,-191.3892 2101.7649,-184.7388 2097.8994,-187.9103 2097.8994,-187.9103 2097.8994,-187.9103 2101.7649,-184.7388 2095.0451,-184.4314 2105.6304,-181.5674 2105.6304,-181.5674"/>
+</g>
+<!-- Limitaciones -->
+<g id="node30" class="node">
+<title>Limitaciones</title>
+<polygon fill="#aca0fc" stroke="#aca0fc" points="2322.1898,-181.2 2239.8446,-181.2 2239.8446,-145.2 2322.1898,-145.2 2322.1898,-181.2"/>
+<text text-anchor="middle" x="2281.0172" y="-159.6" font-family="Arial" font-size="12.00" fill="#000000">Limitaciones</text>
+</g>
+<!-- Experimentacion&#45;&gt;Limitaciones -->
+<g id="edge25" class="edge">
+<title>Experimentacion-&gt;Limitaciones</title>
+<path fill="none" stroke="#000000" d="M1993.3521,-289.4579C2053.639,-262.9976 2165.5669,-213.8718 2230.6072,-185.3253"/>
+<polygon fill="#000000" stroke="#000000" points="2239.8513,-181.2679 2232.5031,-189.4076 2235.2729,-183.2775 2230.6945,-185.287 2230.6945,-185.287 2230.6945,-185.287 2235.2729,-183.2775 2228.8859,-181.1664 2239.8513,-181.2679 2239.8513,-181.2679"/>
+</g>
+<!-- QMC -->
+<g id="node24" class="node">
+<title>QMC</title>
+<polygon fill="#aca0fc" stroke="#aca0fc" points="1508.0172,-36.4 1454.0172,-36.4 1454.0172,-.4 1508.0172,-.4 1508.0172,-36.4"/>
+<text text-anchor="middle" x="1481.0172" y="-14.8" font-family="Arial" font-size="12.00" fill="#000000">QMC</text>
+</g>
+<!-- Diseno&#45;&gt;QMC -->
+<g id="edge26" class="edge">
+<title>Diseno-&gt;QMC</title>
+<path fill="none" stroke="#000000" d="M1736.9085,-144.861C1680.4284,-116.9486 1573.5499,-64.1294 1517.4655,-36.4127"/>
+<polygon fill="#000000" stroke="#000000" points="1508.2614,-31.864 1519.2201,-32.2603 1512.7439,-34.0793 1517.2264,-36.2946 1517.2264,-36.2946 1517.2264,-36.2946 1512.7439,-34.0793 1515.2327,-40.3288 1508.2614,-31.864 1508.2614,-31.864"/>
+</g>
+<!-- Acoplamiento -->
+<g id="node25" class="node">
+<title>Acoplamiento</title>
+<polygon fill="#aca0fc" stroke="#aca0fc" points="1672.0348,-36.7005 1579.9996,-36.7005 1579.9996,-.0995 1672.0348,-.0995 1672.0348,-36.7005"/>
+<text text-anchor="middle" x="1626.0172" y="-22" font-family="Arial" font-size="12.00" fill="#000000">Acoplamiento </text>
+<text text-anchor="middle" x="1626.0172" y="-7.6" font-family="Arial" font-size="12.00" fill="#000000">molecular</text>
+</g>
+<!-- Diseno&#45;&gt;Acoplamiento -->
+<g id="edge27" class="edge">
+<title>Diseno-&gt;Acoplamiento</title>
+<path fill="none" stroke="#000000" d="M1755.2729,-144.861C1729.2825,-119.4326 1682.1644,-73.3332 1652.5647,-44.3735"/>
+<polygon fill="#000000" stroke="#000000" points="1645.0768,-37.0475 1655.3718,-40.8243 1648.6508,-40.5442 1652.2247,-44.0409 1652.2247,-44.0409 1652.2247,-44.0409 1648.6508,-40.5442 1649.0777,-47.2575 1645.0768,-37.0475 1645.0768,-37.0475"/>
+</g>
+<!-- MDS -->
+<g id="node26" class="node">
+<title>MDS</title>
+<polygon fill="#aca0fc" stroke="#aca0fc" points="1826.016,-36.7005 1744.0184,-36.7005 1744.0184,-.0995 1826.016,-.0995 1826.016,-36.7005"/>
+<text text-anchor="middle" x="1785.0172" y="-22" font-family="Arial" font-size="12.00" fill="#000000">Simulación </text>
+<text text-anchor="middle" x="1785.0172" y="-7.6" font-family="Arial" font-size="12.00" fill="#000000">de dinámica</text>
+</g>
+<!-- Diseno&#45;&gt;MDS -->
+<g id="edge28" class="edge">
+<title>Diseno-&gt;MDS</title>
+<path fill="none" stroke="#000000" d="M1775.4104,-144.861C1777.2763,-120.2982 1780.6075,-76.4479 1782.815,-47.3892"/>
+<polygon fill="#000000" stroke="#000000" points="1783.6006,-37.0475 1787.3301,-47.3597 1783.2218,-42.0331 1782.843,-47.0188 1782.843,-47.0188 1782.843,-47.0188 1783.2218,-42.0331 1778.356,-46.6778 1783.6006,-37.0475 1783.6006,-37.0475"/>
+</g>
+<!-- Invitro -->
+<g id="node27" class="node">
+<title>Invitro</title>
+<polygon fill="#aca0fc" stroke="#aca0fc" points="1998.1969,-36.4 1897.8375,-36.4 1897.8375,-.4 1998.1969,-.4 1998.1969,-36.4"/>
+<text text-anchor="middle" x="1948.0172" y="-14.8" font-family="Arial" font-size="12.00" fill="#000000">Estudios in vitro</text>
+</g>
+<!-- Diseno&#45;&gt;Invitro -->
+<g id="edge29" class="edge">
+<title>Diseno-&gt;Invitro</title>
+<path fill="none" stroke="#000000" d="M1796.0544,-144.861C1827.04,-119.0753 1883.5681,-72.0335 1918.2606,-43.163"/>
+<polygon fill="#000000" stroke="#000000" points="1926.1589,-36.5901 1921.3508,-46.4457 1922.3156,-39.7884 1918.4723,-42.9868 1918.4723,-42.9868 1918.4723,-42.9868 1922.3156,-39.7884 1915.5938,-39.5278 1926.1589,-36.5901 1926.1589,-36.5901"/>
+</g>
+<!-- Acop10 -->
+<g id="node31" class="node">
+<title>Acop10</title>
+<polygon fill="#aca0fc" stroke="#aca0fc" points="2165.8703,-36.7005 2070.1641,-36.7005 2070.1641,-.0995 2165.8703,-.0995 2165.8703,-36.7005"/>
+<text text-anchor="middle" x="2118.0172" y="-22" font-family="Arial" font-size="12.00" fill="#000000">Acoplamiento: </text>
+<text text-anchor="middle" x="2118.0172" y="-7.6" font-family="Arial" font-size="12.00" fill="#000000">10 moléculas</text>
+</g>
+<!-- Analisis&#45;&gt;Acop10 -->
+<g id="edge30" class="edge">
+<title>Analisis-&gt;Acop10</title>
+<path fill="none" stroke="#000000" d="M2126.7507,-144.861C2125.0544,-120.2982 2122.026,-76.4479 2120.0192,-47.3892"/>
+<polygon fill="#000000" stroke="#000000" points="2119.305,-37.0475 2124.4834,-46.7137 2119.6495,-42.0356 2119.9941,-47.0237 2119.9941,-47.0237 2119.9941,-47.0237 2119.6495,-42.0356 2115.5048,-47.3338 2119.305,-37.0475 2119.305,-37.0475"/>
+</g>
+<!-- MDS2 -->
+<g id="node32" class="node">
+<title>MDS2</title>
+<polygon fill="#aca0fc" stroke="#aca0fc" points="2350.4712,-36.4 2237.5632,-36.4 2237.5632,-.4 2350.4712,-.4 2350.4712,-36.4"/>
+<text text-anchor="middle" x="2294.0172" y="-14.8" font-family="Arial" font-size="12.00" fill="#000000">MDS: 2 moléculas</text>
+</g>
+<!-- Analisis&#45;&gt;MDS2 -->
+<g id="edge31" class="edge">
+<title>Analisis-&gt;MDS2</title>
+<path fill="none" stroke="#000000" d="M2149.0412,-144.861C2178.4775,-119.1841 2232.0766,-72.4301 2265.2086,-43.5294"/>
+<polygon fill="#000000" stroke="#000000" points="2273.1639,-36.5901 2268.5861,-46.5548 2269.3959,-39.8769 2265.628,-43.1636 2265.628,-43.1636 2265.628,-43.1636 2269.3959,-39.8769 2262.6699,-39.7725 2273.1639,-36.5901 2273.1639,-36.5901"/>
+</g>
+<!-- QMC1 -->
+<g id="node33" class="node">
+<title>QMC1</title>
+<polygon fill="#aca0fc" stroke="#aca0fc" points="2531.3036,-36.4 2422.7308,-36.4 2422.7308,-.4 2531.3036,-.4 2531.3036,-36.4"/>
+<text text-anchor="middle" x="2477.0172" y="-14.8" font-family="Arial" font-size="12.00" fill="#000000">QMC: 1 molécula</text>
+</g>
+<!-- Analisis&#45;&gt;QMC1 -->
+<g id="edge32" class="edge">
+<title>Analisis-&gt;QMC1</title>
+<path fill="none" stroke="#000000" d="M2167.3735,-146.8711C2230.1988,-120.8049 2353.243,-69.7539 2423.8391,-40.4636"/>
+<polygon fill="#000000" stroke="#000000" points="2433.4407,-36.4799 2425.9286,-44.4686 2428.8224,-38.396 2424.2041,-40.3122 2424.2041,-40.3122 2424.2041,-40.3122 2428.8224,-38.396 2422.4796,-36.1557 2433.4407,-36.4799 2433.4407,-36.4799"/>
+</g>
+<!-- Interpretacion -->
+<g id="node35" class="node">
+<title>Interpretacion</title>
+<polygon fill="#ffaeb9" stroke="#ffaeb9" points="2491.1997,-181.5005 2394.8347,-181.5005 2394.8347,-144.8995 2491.1997,-144.8995 2491.1997,-181.5005"/>
+<text text-anchor="middle" x="2443.0172" y="-166.8" font-family="Arial" font-size="12.00" fill="#000000">Interpretación </text>
+<text text-anchor="middle" x="2443.0172" y="-152.4" font-family="Arial" font-size="12.00" fill="#000000">de resultados</text>
+</g>
+<!-- Conclusion&#45;&gt;Interpretacion -->
+<g id="edge34" class="edge">
+<title>Conclusion-&gt;Interpretacion</title>
+<path fill="none" stroke="#000000" d="M2520.7453,-289.3116C2505.382,-264.3851 2477.7423,-219.5405 2459.8996,-190.5912"/>
+<polygon fill="#000000" stroke="#000000" points="2454.4787,-181.796 2463.5565,-187.9478 2457.1022,-186.0525 2459.7256,-190.3089 2459.7256,-190.3089 2459.7256,-190.3089 2457.1022,-186.0525 2455.8948,-192.6701 2454.4787,-181.796 2454.4787,-181.796"/>
+</g>
+<!-- Comparacion -->
+<g id="node36" class="node">
+<title>Comparacion</title>
+<polygon fill="#ffaeb9" stroke="#ffaeb9" points="2680.8637,-181.5005 2563.1707,-181.5005 2563.1707,-144.8995 2680.8637,-144.8995 2680.8637,-181.5005"/>
+<text text-anchor="middle" x="2622.0172" y="-166.8" font-family="Arial" font-size="12.00" fill="#000000">Comparación con </text>
+<text text-anchor="middle" x="2622.0172" y="-152.4" font-family="Arial" font-size="12.00" fill="#000000">hipótesis</text>
+</g>
+<!-- Conclusion&#45;&gt;Comparacion -->
+<g id="edge35" class="edge">
+<title>Conclusion-&gt;Comparacion</title>
+<path fill="none" stroke="#000000" d="M2543.4158,-289.3116C2558.9517,-264.3851 2586.902,-219.5405 2604.9451,-190.5912"/>
+<polygon fill="#000000" stroke="#000000" points="2610.4269,-181.796 2608.9564,-192.6628 2607.7822,-186.0393 2605.1374,-190.2826 2605.1374,-190.2826 2605.1374,-190.2826 2607.7822,-186.0393 2601.3185,-187.9023 2610.4269,-181.796 2610.4269,-181.796"/>
+</g>
+<!-- Futuro -->
+<g id="node37" class="node">
+<title>Futuro</title>
+<polygon fill="#ffaeb9" stroke="#ffaeb9" points="2917.89,-181.5005 2752.1444,-181.5005 2752.1444,-144.8995 2917.89,-144.8995 2917.89,-181.5005"/>
+<text text-anchor="middle" x="2835.0172" y="-166.8" font-family="Arial" font-size="12.00" fill="#000000">Propuestas </text>
+<text text-anchor="middle" x="2835.0172" y="-152.4" font-family="Arial" font-size="12.00" fill="#000000">para futuras investigaciones</text>
+</g>
+<!-- Conclusion&#45;&gt;Futuro -->
+<g id="edge36" class="edge">
+<title>Conclusion-&gt;Futuro</title>
+<path fill="none" stroke="#000000" d="M2570.0856,-289.4579C2625.1542,-263.2139 2727.0085,-214.6734 2787.1134,-186.0294"/>
+<polygon fill="#000000" stroke="#000000" points="2796.3878,-181.6095 2789.2965,-189.974 2791.8742,-183.7606 2787.3605,-185.9117 2787.3605,-185.9117 2787.3605,-185.9117 2791.8742,-183.7606 2785.4246,-181.8494 2796.3878,-181.6095 2796.3878,-181.6095"/>
+</g>
+</g>
+</svg>
