@@ -1,1 +1,8 @@
-...
+1. Crear su cuenta de Github y cargar los siguientes archivos 
+2. Subir su Diagrama de la propuesta creada en XMIND y en EDOTOR (ver la carpeta de práctica de la sesión 3 https://github.com/inefable12/SQP2024/tree/main/Sesion3/2_Practica)
+3. Seleccione sus palabras clave para la búsqueda bibliográfica en SCOPUS
+4. Use COLAB para obtener una tabla con la búsqueda (asegúrese de mantener en privado la clave de SCOPUS o API KEY)
+5. Seleccione 3 artículos científicos de su tabla y use Llama3 para realizarle 3 preguntas. Por ejemplo, para mi caso:
+(a) ¿Qué herramientas de simulación computacional se emplearon en el artículo?
+(b) ¿Qué bases de datos moleculares se exploraron?
+(c) ¿Qué moléculas obtuvieron los mejores resultados?
