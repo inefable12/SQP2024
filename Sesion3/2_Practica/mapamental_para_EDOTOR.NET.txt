@@ -1,0 +1,103 @@
+digraph G {
+    // Configuración general del grafo
+    graph [splines=true, rankdir=TB, nodesep=1, ranksep=1.5];
+    node [shape=box, style=filled, color=lightblue, fontname="Arial", fontsize=12];
+    edge [color=black, arrowhead=vee];
+
+    // Nodo central
+    ProductosNaturales [label="Productos Naturales \n Inhibidores de targets \n en SARS-CoV-2", shape=ellipse, style=filled, color=lightcoral, fontsize=14, fontname="Arial Bold"];
+
+    // Observación
+    Observacion [label="Observación (i)", style=filled, color=lightgoldenrod1, fontname="Arial Bold"];
+    ProductosNaturales -> Observacion;
+
+    Problem [label="Problemática: \nMutación en AA 142",color=lightgoldenrod1,];
+    DataStruct [label="Data estructural \nde target (PDB)",color=lightgoldenrod1];
+    Literature [label="Revisión de la \nliteratura",color=lightgoldenrod1];
+    Software [label="Revisión de \nsoftware requerido",color=lightgoldenrod1];
+    Databases [label="Bases de datos \nmoleculares",color=lightgoldenrod1];
+
+    Observacion -> Problem;
+    Observacion -> DataStruct;
+    Observacion -> Literature;
+    Observacion -> Software;
+    Observacion -> Databases;
+
+    Alphafold [label="Alphafold",color=lightgoldenrod1];
+    PDB [label="PDB",color=lightgoldenrod1];
+    DataStruct -> Alphafold;
+    DataStruct -> PDB;
+
+    Scopus [label="Scopus",color=lightgoldenrod1];
+    Pubmed [label="Pubmed",color=lightgoldenrod1];
+    WoS [label="WoS",color=lightgoldenrod1];
+    Literature -> Scopus;
+    Literature -> Pubmed;
+    Literature -> WoS;
+
+    LicAcademica [label="Lic. Académica",color=lightgoldenrod1];
+    LicComercial [label="Lic. Comercial",color=lightgoldenrod1];
+    Software -> LicAcademica;
+    Software -> LicComercial;
+
+    PubChem [label="PubChem",color=lightgoldenrod1];
+    SciFinder [label="SciFinder",color=lightgoldenrod1];
+    PeruNPDB [label="PeruNPDB",color=lightgoldenrod1];
+    Databases -> PubChem;
+    Databases -> SciFinder;
+    Databases -> PeruNPDB;
+
+    // Hipótesis
+    Hipotesis [label="Hipótesis (i+m)", style=filled, color="#72e6e0", fontname="Arial Bold"];
+    ProductosNaturales -> Hipotesis;
+
+    Pregunta [label="Formulación de \npreguntas", color="#72e6e0"];
+    Proposicion [label="Proposición de \nhipótesis", color="#72e6e0"];
+    Variables [label="Selección de \nvariables", color="#72e6e0"];
+
+    Hipotesis -> Pregunta;
+    Hipotesis -> Proposicion;
+    Hipotesis -> Variables;
+
+    // Experimentación
+    Experimentacion [label="Experimentación (m+r+d)", style=filled, color="#aca0fc", fontname="Arial Bold"];
+    ProductosNaturales -> Experimentacion;
+
+    Diseno [label="Diseño del \nexperimento", color="#aca0fc"];
+    QMC [label="QMC", color="#aca0fc"];
+    Acoplamiento [label="Acoplamiento \nmolecular", color="#aca0fc"];
+    MDS [label="Simulación \nde dinámica", color="#aca0fc"];
+    Invitro [label="Estudios in vitro", color="#aca0fc"];
+    Recoleccion [label="Recolección de \ndatos experimentales", color="#aca0fc"];
+    Analisis [label="Análisis de \nresultados", color="#aca0fc"];
+    Limitaciones [label="Limitaciones", color="#aca0fc"];
+
+    Experimentacion -> Diseno;
+    Experimentacion -> Recoleccion;
+    Experimentacion -> Analisis;
+    Experimentacion -> Limitaciones;
+
+    Diseno -> QMC;
+    Diseno -> Acoplamiento;
+    Diseno -> MDS;
+    Diseno -> Invitro;
+
+    Acop10 [label="Acoplamiento: \n10 moléculas", color="#aca0fc"];
+    MDS2 [label="MDS: 2 moléculas", color="#aca0fc"];
+    QMC1 [label="QMC: 1 molécula", color="#aca0fc"];
+    Analisis -> Acop10;
+    Analisis -> MDS2;
+    Analisis -> QMC1;
+
+    // Conclusión
+    Conclusion [label="Conclusión (d)", style=filled, color=lightpink1, fontname="Arial Bold"];
+    ProductosNaturales -> Conclusion;
+
+    Interpretacion [label="Interpretación \nde resultados", color=lightpink1];
+    Comparacion [label="Comparación con \nhipótesis", color=lightpink1];
+    Futuro [label="Propuestas \npara futuras investigaciones", color=lightpink1];
+
+    Conclusion -> Interpretacion;
+    Conclusion -> Comparacion;
+    Conclusion -> Futuro;
+}
