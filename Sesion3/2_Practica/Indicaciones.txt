@@ -1,0 +1,29 @@
+Se realizaron mapas mentales, de acuerdo a las siguientes indicaciones:
+
+Como se planteó en el entregable #2, los participantes contaban con un proyecto de investigación y se elaboró un mapa mental o mapa de conexiones, conteniendo:
+a) Observación, 
+b) Metodología,
+c) Experimentación,
+d) Conclusión
+
+Estas se asociaron al formato de redacción de Artículo de Investigación: IMRyD 
+(Acrónimo de introducción, metodología, resultados y discusión).
+
+Para ello empleamos 2 procedimientos diferentes con recursos gratuitos. 
+
+1. Usando XMIND:
+- Realizamos un borrador del plan con papel y lápiz (o en digital, por ejemplo, usando PowerPoint)
+- La imagen de este borrador se ingresó en chatGPT (o en alguna otra herramienta análoga) con el prompt: "Genera el texto en lenguaje MARKDOWN para la imagen adjunta"
+- El resultado se copió en un block de notas y se guardó el archivo con extensión md de MARKDOWN. Por ejemplo: miarchivo.md
+- En esta etapa se debe tener cuidado en Windows, ya que puede haberse guardado automáticamente con formato de texto TXT.
+- Descargamos la aplicación XMIND y la instalamos 
+- Al abrir, hacemos click en los 3 puntos (···), luego en archivo, seleccionamos IMPORTAR, y finalmente Markdown.
+- Se abrirá una ventana donde vamos a seleccionar nuestro archivo en formato md. 
+
+2. Usando EDOTOR.NET
+- A diferencia del caso anterior no necesitamos instalar algún programa ni guardar previamente un archivo.
+- En la sesión de chatGPT del caso anterior podemos ingresar el prompt: 
+"Eres un especialista en lenguaje DOT y creación de mapas mentales estilizadas con decoraciones en este lenguaje. Convierte el texto markdown en lenguaje DOT"
+- Copiamos el código generado por chatGPT y lo pegamos en la página edotor.net
+- A continuación guardamos en formato PNG si no deseamos editarla o sino en formato SVG. Para editar podemos usar programas como INKSCAPE (gratuito), CorelDrawn, entre otros.
+
